@@ -1,0 +1,23 @@
+{
+  "AboutPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "about": "About"
+    },
+    "title": "About",
+    "paragraph1": "Hello, my name is Taiga Shiokawa. I'm a full-stack web engineer with 2 years of professional experience specializing in both frontend and backend development.",
+    "paragraph2": "My expertise centers around modern web development using React, Next.js, and Node.js. I particularly focus on performance optimization and enhancing user experience, always striving to achieve clients' business objectives through technology.",
+    "paragraph3": "Throughout my career, I've worked on various projects including landing page and website development using both pure HTML/CSS/JavaScript and modern frameworks like Next.js, E-commerce site modifications, building internal information management systems, and developing tools to improve workplace efficiency.",
+    "paragraph4": "Currently, while working as a company employee in web development, I'm also pursuing service development as an independent developer. I implement \"AI-driven development\" by actively utilizing the latest AI technologies, which enables me to deliver value quickly while maintaining high-quality results.",
+    "paragraph5": "My motto is \"solving challenges through technology and accelerating clients' businesses.\" I propose optimal web solutions that combine the strengths of AI and human capabilities.",
+    "paragraph6": "If you have any questions or would like to discuss a project, please feel free to contact me. I look forward to taking on new challenges together.",
+    "contactLink": "Email me"
+  },
+  "HomePage": {
+    "profileImageAlt": "Picture of the author",
+    "greeting": "Hello, I'm Taiga",
+    "description":  "\"Taiga With...\" is a technical blog and portfolio site where I share my knowledge and experience in software engineering. Through practical insights gained from daily development, technical explanations of programming concepts, and various project case studies, I aim to support the growth of fellow engineers. Let's learn together and explore the possibilities of technology at \"Taiga With...\".",
+    "featuredTitle": "Featured",
+    "projectTitle": "Projects"
+  }
+}

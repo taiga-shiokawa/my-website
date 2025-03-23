@@ -37,6 +37,24 @@ async function main() {
                         published: true
                     }
                 ]
+            },
+            projects: {
+                create: [
+                    {
+                        title: "First Project",
+                        description: "This is my first project.",
+                        url: "https://example.com",
+                        topImage: dummyImage[0],
+                        published: true
+                    },
+                    {
+                        title: "Second Project",
+                        description: "This is my second project.",
+                        url: "https://example.com",
+                        topImage: dummyImage[0],
+                        published: true
+                    }
+                ]
             }
         }
     });
